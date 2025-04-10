@@ -1,1 +1,3 @@
 # DAT601-A1
+This is my assesment for DAT601. 
+The main objective of this assssmnet is to test our abiity to use SQL script for a simple database, and develop an understanding and demonstrate our knowledge of the design process of creating a more complex database. We are learning about the conceptual, logical and physical modelling phases and the structuring of a Chen ERD. We are also learning of the importance of a Database Dictionary, how entities, attributes and relationships work and utilisation of fundamantal principles and business rules when structuring organised databases. This assessment demonstrates a basic understanding of database management systems.   
